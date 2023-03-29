@@ -33,14 +33,6 @@ To split a bill so that each party member only pays for the line items they are 
 
 To build and run the app, clone this project, open it as an existing project in Android Studio, and click Run.
 
-### Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/maanavshah/billsplitter. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-### License
-
-The content of this repository is licensed under [MIT LICENSE](LICENSE).
-
 ### Screenshots
 
 <img src="screenshots/Screenshot1.png" align="left" height="400" width="240" alt="Main Screen">
